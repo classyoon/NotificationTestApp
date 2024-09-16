@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		CA053C3F2C8F5FCC0099105F /* NotificationTestAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA053C3E2C8F5FCC0099105F /* NotificationTestAppApp.swift */; };
 		CA053C412C8F5FCC0099105F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA053C402C8F5FCC0099105F /* ContentView.swift */; };
-		CA053C432C8F5FCC0099105F /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA053C422C8F5FCC0099105F /* Item.swift */; };
 		CA053C452C8F5FCD0099105F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA053C442C8F5FCD0099105F /* Assets.xcassets */; };
 		CA053C482C8F5FCD0099105F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA053C472C8F5FCD0099105F /* Preview Assets.xcassets */; };
 		CA053C522C8F5FCD0099105F /* NotificationTestAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA053C512C8F5FCD0099105F /* NotificationTestAppTests.swift */; };
@@ -38,7 +37,6 @@
 		CA053C3B2C8F5FCC0099105F /* NotificationTestApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NotificationTestApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA053C3E2C8F5FCC0099105F /* NotificationTestAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationTestAppApp.swift; sourceTree = "<group>"; };
 		CA053C402C8F5FCC0099105F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		CA053C422C8F5FCC0099105F /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		CA053C442C8F5FCD0099105F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CA053C472C8F5FCD0099105F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CA053C4D2C8F5FCD0099105F /* NotificationTestAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NotificationTestAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -98,7 +96,6 @@
 			children = (
 				CA053C3E2C8F5FCC0099105F /* NotificationTestAppApp.swift */,
 				CA053C402C8F5FCC0099105F /* ContentView.swift */,
-				CA053C422C8F5FCC0099105F /* Item.swift */,
 				CA053C442C8F5FCD0099105F /* Assets.xcassets */,
 				CA053C462C8F5FCD0099105F /* Preview Content */,
 			);
@@ -261,7 +258,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				CA053C412C8F5FCC0099105F /* ContentView.swift in Sources */,
-				CA053C432C8F5FCC0099105F /* Item.swift in Sources */,
 				CA053C3F2C8F5FCC0099105F /* NotificationTestAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
